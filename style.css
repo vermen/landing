@@ -1,5 +1,17 @@
-h1{
-   /*  text-align: center; */
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #333;
+    color: #FFF;
+    min-height: 100vh;
+    box-sizing: border-box;
+}
+
+
+h1 {
+    /*  text-align: center; */
     font-size: 40px;
     margin: auto;
 }
