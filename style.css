@@ -15,4 +15,5 @@ h1 {
     font-size: 40px;
     margin: auto;
     text-shadow: 1px 1px 10px red;
+    font-weight: 700;
 }
