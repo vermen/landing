@@ -16,3 +16,10 @@ h1 {
     margin: auto;
     text-shadow: 1px 1px 10px red;
 }
+
+.container {
+    padding: 20px;
+    border: 10px solid #fff;
+    border-radius: 8px;
+
+}
